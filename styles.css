@@ -1,0 +1,60 @@
+/* STYLES */
+
+body {
+    background: pink;
+    color: #d6c7ab;
+    font-family: 'Helvetica';
+}
+
+h1 {
+   font-size: 48px; 
+   font-weight: 400;
+
+   text-align: center;
+
+   /* font-style: regular; */
+
+   text-transform: uppercase;
+
+   /* leading */
+   line-height: 42px;
+
+   /* tracking */
+   letter-spacing: -1px;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+p {
+    margin-bottom: 28px;
+    /* text-indent: 16px; */
+}
+
+main {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50vh;
+    margin-bottom: 300px;
+    
+    /*
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+    background: yellow; 
+    
+    padding: 16px;
+
+    */
+}
+
